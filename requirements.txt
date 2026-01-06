@@ -1,0 +1,6 @@
+# AI Girlfriend Dependencies
+numpy>=1.21.0
+transformers>=4.25.0  # For advanced AI later
+torch>=1.13.0  # Optional for ML
+python-dotenv>=0.21.0
+flask>=2.2.0  # For web version
